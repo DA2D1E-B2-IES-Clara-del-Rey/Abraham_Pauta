@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Tilt+Prism&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+ h1 {
+    font-family:'Press Start 2P', cursive;
+    color: red;
+ }
+
+  h2 {
+    font-family:'Press Start 2P', cursive;
+      color: red;
+      text-align: center;
+  }
+ 
+ .card-header {
+     font-family: 'Alkatra', cursive;
+     font-size: 30px;
+     color: white;
+ }
+
+ .card-title {
+     font-family: 'Alkatra', cursive;
+     font-size: 21px;
+     color: rgb(22, 244, 19);
+ }
+
+ .card-text .a {
+     font-family: 'Caveat', cursive;
+     font-size: 18px;
+     color: white;
+ }
+
+ a {
+    background-color: rgb(197, 189, 215)
+ }
+
+ a:link,
+ a:visited {
+     background-color: #c53434;
+     color: white;
+     padding: 9px 9px;
+     text-align: center;
+     text-decoration: none;
+     display: inline-block;
+ }
+
+ a:hover,
+ a:active {
+     background-color: #ff0000;
+ }
+
+ .copyleft {
+     display: inline-block;
+     transform: rotate(180deg);
+ }
+ 
+ body {
+    background: #060e1b;
+  }
+  
+  canvas {
+    opacity: 0.5;
+    position: fixed;
+    z-index: -1;
+  }
