@@ -1,0 +1,17 @@
+El capítulo 2 del documento "Annex to D3.7 PoliRural GitHub Account" es una guía detallada sobre cómo utilizar GitHub como una herramienta de seguimiento de problemas y proyectos. El capítulo se divide en tres secciones principales: seguimiento de problemas, etiquetas y proyectos.
+
+En la primera sección, se explica cómo utilizar la función de seguimiento de problemas en GitHub. Los problemas se utilizan para realizar un seguimiento de las tareas, errores o mejoras en un proyecto. Los usuarios pueden crear nuevos problemas y asignarlos a otros usuarios, así como agregar etiquetas para clasificar y organizar los problemas. Además, se proporcionan recomendaciones sobre cómo estructurar el seguimiento de problemas en proyectos más grandes, incluyendo el uso de plantillas y la organización de los problemas en diferentes proyectos.
+
+En la segunda sección, se explica el uso de etiquetas en GitHub. Las etiquetas son una herramienta para clasificar y organizar problemas y solicitudes de extracción en GitHub. Los usuarios pueden crear etiquetas personalizadas y asignarlas a problemas y solicitudes de extracción para facilitar su seguimiento y clasificación. Además, se proporcionan recomendaciones sobre cómo utilizar las etiquetas de manera efectiva, incluyendo el uso de etiquetas de prioridad, estado y tipo.
+
+La tercera sección del capítulo se centra en el uso de proyectos en GitHub. Los proyectos son una herramienta para organizar y realizar un seguimiento de las tareas y problemas en un proyecto. Los usuarios pueden crear proyectos personalizados y agregar columnas para organizar las tareas en diferentes etapas, como "Por hacer", "En progreso" y "Hecho". Además, se proporcionan recomendaciones sobre cómo utilizar los proyectos de manera efectiva, incluyendo el uso de plantillas de proyectos y la integración de los proyectos con otros servicios y herramientas.
+
+En resumen, el capítulo 2 del documento anexo proporciona una guía detallada sobre el uso de GitHub como una herramienta de seguimiento de problemas y proyectos. Se explican detalladamente cómo utilizar las funciones de seguimiento de problemas, etiquetas y proyectos de manera efectiva y se proporcionan recomendaciones sobre cómo organizar y clasificar los problemas y tareas en proyectos más grandes.
+
+El anexo 1 del documento "Annex to D3.7 PoliRural GitHub Account" proporciona una guía detallada sobre cómo configurar una cuenta de GitHub, crear y administrar repositorios, y colaborar en proyectos.
+
+En la primera sección, se explica cómo crear una cuenta de GitHub y cómo configurar la privacidad y seguridad de los repositorios. Se proporcionan recomendaciones sobre cómo establecer el nivel de acceso de los miembros del equipo y cómo manejar la información confidencial en los repositorios. Además, se explica cómo utilizar la autenticación de dos factores para mejorar la seguridad de la cuenta.
+
+En la segunda sección, se explica cómo crear y administrar repositorios en GitHub. Los repositorios son la estructura fundamental de GitHub y se utilizan para almacenar código, documentos y otros archivos de proyecto. Se explican los diferentes tipos de repositorios, incluyendo los repositorios públicos y privados, y se proporcionan recomendaciones sobre cómo establecer la estructura y organización de los repositorios para facilitar la colaboración y el seguimiento del progreso del proyecto.
+
+En la tercera sección, se explica cómo colaborar en proyectos en GitHub. La colaboración es uno de los principales beneficios
